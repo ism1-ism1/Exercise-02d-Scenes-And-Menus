@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to use menues. Created in Unity.
+A user-controlled ship for a space-shooter game. Added a ship that can be controlled and fired to destroy asteroids and enemies. A score, health, and time system. Added a second more difficult level that contains a different enemy. Two unique enemies; one that moves horizontally kinda slowly and another one that moves vertically at a faster speed. Added bachgrounds for start, end, and levels. Created in Unity.
 
 ## Implementation
 
